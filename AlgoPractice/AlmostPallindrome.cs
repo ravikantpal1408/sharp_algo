@@ -3,7 +3,7 @@ namespace AlgoPractice;
 
 public class AlmostPallindrome
 {
-    public static void AlmostPallindromeCheck(string str)
+    public static bool AlmostPallindromeCheck(string str)
     {
         // this is the optimal solution
         int left=0; int right = str.Length -1;
@@ -22,7 +22,7 @@ public class AlmostPallindrome
         return true;
     }
 
-    public bool ValidSubPallindrome(originalStr, left, right)
+    public static bool ValidSubPallindrome(string originalStr,int left,int right)
     {
         while(left < right)
         {

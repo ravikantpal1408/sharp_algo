@@ -6,6 +6,10 @@ public class NaturalNumberSum
 {
     public int findSumUsingRecursion(int n)
     {
-        return 0;
+        if(n == 0) {
+            return n;
+        }
+
+        return (n + findSumUsingRecursion(n-1));
     }
 }
