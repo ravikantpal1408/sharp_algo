@@ -1,9 +1,9 @@
 namespace AlgoPractice;
 
 
-public class AlmostPallindrome
+public class AlmostPalindrome
 {
-    public static bool AlmostPallindromeCheck(string str)
+    public static bool AlmostPalindromeCheck(string str)
     {
         // this is the optimal solution
         int left=0; int right = str.Length -1;
@@ -12,7 +12,7 @@ public class AlmostPallindrome
         {
             if(str[left] != str[right])
             {
-                return ValidSubPallindrome(str, left, right) ||  ValidSubPallindrome(str, left, right - 1);
+                return ValidSubPalindrome(str, left, right) ||  ValidSubPalindrome(str, left, right - 1);
             }
 
             left++;
@@ -22,7 +22,7 @@ public class AlmostPallindrome
         return true;
     }
 
-    public static bool ValidSubPallindrome(string originalStr,int left,int right)
+    private static bool ValidSubPalindrome(string originalStr,int left,int right)
     {
         while(left < right)
         {

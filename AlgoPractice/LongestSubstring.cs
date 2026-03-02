@@ -3,7 +3,7 @@ using System;
 namespace AlgoPractice;
 
 /*
-    Longest sub-string without reapeating character (MEDIUM)
+    Longest sub-string without repeating character (MEDIUM)
 */
 
 public class LongestSubstring

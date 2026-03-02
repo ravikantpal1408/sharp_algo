@@ -2,19 +2,19 @@ using System;
 
 namespace AlgoPractice;
 
-public class PallindromeChecker
+public class PalindromeChecker
 {
 
-    public static void CheckForPallindrome(string str)
+    public static void CheckForPalindrome(string str)
     {
         int p1=0, p2=str.Length-1;
-        bool isPallindrome = true;        
+        bool isPalindrome = true;        
         
         while(p1<=p2)
         {
             if(str[p1] != str[p2])
             {
-                isPallindrome=false;
+                isPalindrome=false;
                 Console.WriteLine($"Given string {str} is not pallindrome");
                 break;
             } 
@@ -23,7 +23,7 @@ public class PallindromeChecker
             p2--;            
             
         }
-        if(isPallindrome) Console.WriteLine($"Given string {str} is pallindrome");
+        if(isPalindrome) Console.WriteLine($"Given string {str} is pallindrome");
         
     }
 

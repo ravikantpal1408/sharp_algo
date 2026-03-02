@@ -4,12 +4,12 @@ namespace AlgoPractice;
 
 public class NaturalNumberSum
 {
-    public int findSumUsingRecursion(int n)
+    public int FindSumUsingRecursion(int n)
     {
         if(n == 0) {
             return n;
         }
 
-        return (n + findSumUsingRecursion(n-1));
+        return (n + FindSumUsingRecursion(n-1));
     }
 }

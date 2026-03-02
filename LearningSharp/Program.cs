@@ -1,7 +1,11 @@
 ﻿using LearningSharp;
 
+int[] payload = [1, 2, 3, 5, 5, 5, 6, 8, 7, 7];
+RemoveDuplicate.RemovingDupsNum(payload);
+
+
 // StarPatternPrint.PrintingStarPattern();
-StarPatternPrint.PrintingReverseStarPattern();
+// StarPatternPrint.PrintingReverseStarPattern();
 
 // string str = "abc";
 // char[] ch = str.ToCharArray();

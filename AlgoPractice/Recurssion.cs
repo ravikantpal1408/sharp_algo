@@ -1,5 +1,3 @@
-using System;
-
 namespace AlgoPractice;
 
 public class Recurssion
