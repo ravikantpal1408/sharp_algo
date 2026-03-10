@@ -1,7 +1,15 @@
 ﻿using LearningSharp;
 
-int[] payload = [1, 2, 3, 5, 5, 5, 6, 8, 7, 7];
-RemoveDuplicate.RemovingDupsNum(payload);
+
+InterfaceMCQ();
+
+void InterfaceMCQ()
+{
+    
+}
+
+// int[] payload = [1, 2, 3, 5, 5, 5, 6, 8, 7, 7];
+// RemoveDuplicate.RemovingDupsNum(payload);
 
 
 // StarPatternPrint.PrintingStarPattern();
