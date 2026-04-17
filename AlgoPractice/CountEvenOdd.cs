@@ -12,9 +12,8 @@ public class CountEvenOdd
 
         for(int i=0; i< arr.Length; i++)
         {
-            if (arr[i] % 2 == 0 && result.ContainsKey("even")) 
+            if (arr[i] % 2 == 0 && result.ContainsKey("even"))
             {
-                
                 result["even"] = result["even"]+1;
             }
             else

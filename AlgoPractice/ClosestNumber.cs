@@ -7,7 +7,7 @@ public class ClosestNumber
     // num = 13 ; divisible = 4
     public static int ReturnTheClosestTarget(int num, int divisible)
     {
-        int closest = 0; 
+        int closest = 0;
         int minDifference = int.MaxValue;
 
         // i = 9 i <=  13+4= 17 ; 10

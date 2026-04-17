@@ -11,10 +11,9 @@ public static class RemoveDuplicate
         {
             if(!dict.ContainsKey(n[left]))
             {
-                dict.Add(n[left], left);   
-                
+                dict.Add(n[left], left);
             }
-            left++;    
+            left++;
         }
         Console.Write("[");
         var finalArr = new int[dict.Count];
@@ -30,7 +29,6 @@ public static class RemoveDuplicate
         //     finalArr[item.] = item.Value;
         // }
         // Console.Write("]");
-        
     }
 
 }

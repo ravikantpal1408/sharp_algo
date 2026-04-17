@@ -11,7 +11,7 @@ public class Program
         // var list = new int[]{4, 8, 1, 2, 3, 9, 88};
         // CountEvenOdd.GetCountOfEvenOdd(list);
         // ContainerWithMostWater.GetAreaWithMostWater(list);
-        // JosephusProblem.FindTheLastPersonStanding(1000, 3);       
+        // JosephusProblem.FindTheLastPersonStanding(1000, 3);
 
         // var list = new int[]{2, 7, 11, 15};
         // TwoSum.FindTwoSumWithTargetValue( list, 9 );
@@ -21,7 +21,6 @@ public class Program
 
         // var list = new int[]{1,2,3,4,5,6,7};
         // TwoSumTwo.GetSortedTwoSumTwo( list, 9 );
-        
     }
 }
 

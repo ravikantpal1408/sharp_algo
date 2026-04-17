@@ -48,7 +48,7 @@ public class StarPatternPrint
     }
 
     /*
-    
+
     🎯 PRACTICE TASK (DO THIS)
         Try to print:
         1
@@ -62,7 +62,6 @@ public class StarPatternPrint
         * *
         *
 
-    
     */
 
 }

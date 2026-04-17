@@ -16,7 +16,6 @@ public class DfPartitionProblemMicrosoft
     Goal:
         Find the minimum total complexity possible.
         If it is not possible to schedule the tasks over the given number of days, return -1.
-    
     */
     public static int FindMinComplexity(List<int> complexity, int days)
     {

@@ -12,7 +12,7 @@ public class LongestSubstring
     {
         if(str.Length <=1)
         {
-            Console.WriteLine($"longest string length = {str.Length}"); 
+            Console.WriteLine($"longest string length = {str.Length}");
             return;
         }
 
@@ -33,7 +33,7 @@ public class LongestSubstring
 
             seenCharacter[currentChar] = right;
 
-            longest = Math.Max(longest, right - left + 1);            
+            longest = Math.Max(longest, right - left + 1);
         }
 
         Console.WriteLine($"The longest sub-string = {longest}");

@@ -17,7 +17,6 @@ public class TwoSumTwo
                 Console.WriteLine($" taget sum : {target} found at index {left} and {right} : {list[left]} , list{right} respectively");
                 break;
             }
-            
             if(sum<target)
             {
                 left++;
@@ -26,8 +25,6 @@ public class TwoSumTwo
             {
                 right--;
             }
-            
-            
         }
     }
 

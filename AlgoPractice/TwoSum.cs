@@ -10,7 +10,6 @@ public class TwoSum
     {
         Dictionary<int, int> keyValuePairs = new ();
 
-         
         for(int i = 0; i< listOfNumbers.Length; i++)
         {
             int complement = targetValue - listOfNumbers[i];
@@ -19,7 +18,6 @@ public class TwoSum
             {
                 Console.WriteLine($"[{listOfNumbers[i]}, {complement}]");
             }
-            
             keyValuePairs[listOfNumbers[i]] = i;
         }
     }

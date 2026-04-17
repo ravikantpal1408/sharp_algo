@@ -6,7 +6,6 @@ public class TrappingRainWater
 {
     /*
         currentWater = min(maxLeft, maxRight) - currentHeight
-        
     */
     public static void MaxTrapperWater(int[] listOfHeights)
     {
@@ -19,10 +18,10 @@ public class TrappingRainWater
                 if(listOfHeights[left] >= maxLeft )
                 {
                     maxLeft = listOfHeights[left];
-                } 
+                }
                 else
                 {
-                    totalWater += maxLeft - listOfHeights[left];    
+                    totalWater += maxLeft - listOfHeights[left];
                 }
                 left++;
             }

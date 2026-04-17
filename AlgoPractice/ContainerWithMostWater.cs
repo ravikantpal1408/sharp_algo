@@ -6,7 +6,7 @@ public class ContainerWithMostWater
 {
     public static void GetAreaWithMostWater(int[] listNumArry)
     {
-        int left = 0; int right = listNumArry.Length-1; 
+        int left = 0; int right = listNumArry.Length-1;
 
         int maxArea = 0;
 
@@ -23,12 +23,11 @@ public class ContainerWithMostWater
             if(listNumArry[left] <= listNumArry[right])
             {
                 left++;
-            } 
+            }
             else
             {
-                right--;    
+                right--;
             }
-            
         }
 
         Console.WriteLine($" Max area is : {maxArea}");

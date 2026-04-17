@@ -10,9 +10,9 @@ public class JosephusProblem
 
         for(int i = 2; i <= personStandingInCircle; i++)
         {
-            result = (result + kthPositionPersonDies) % i;            
+            result = (result + kthPositionPersonDies) % i;
         }
-        Console.WriteLine("last person to survive was on position " + (result+1) + " out of " + 
-                personStandingInCircle + " people standing in circle ");        
+        Console.WriteLine("last person to survive was on position " + (result+1) + " out of " +
+                personStandingInCircle + " people standing in circle ");
     }
 }
