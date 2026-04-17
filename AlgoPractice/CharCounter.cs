@@ -12,7 +12,6 @@ public class CharCounter
         {
             if(result.ContainsKey(str[i]))
             {
-                
                 result[str[i]]=result[str[i]]+1;
             }
             else
