@@ -1,0 +1,15 @@
+/Volumes/ravi/MyWork/sharp_algo/Solid/bin/Debug/net10.0/Solid
+/Volumes/ravi/MyWork/sharp_algo/Solid/bin/Debug/net10.0/Solid.deps.json
+/Volumes/ravi/MyWork/sharp_algo/Solid/bin/Debug/net10.0/Solid.runtimeconfig.json
+/Volumes/ravi/MyWork/sharp_algo/Solid/bin/Debug/net10.0/Solid.dll
+/Volumes/ravi/MyWork/sharp_algo/Solid/bin/Debug/net10.0/Solid.pdb
+/Volumes/ravi/MyWork/sharp_algo/Solid/obj/Debug/net10.0/Solid.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/ravi/MyWork/sharp_algo/Solid/obj/Debug/net10.0/Solid.AssemblyInfoInputs.cache
+/Volumes/ravi/MyWork/sharp_algo/Solid/obj/Debug/net10.0/Solid.AssemblyInfo.cs
+/Volumes/ravi/MyWork/sharp_algo/Solid/obj/Debug/net10.0/Solid.csproj.CoreCompileInputs.cache
+/Volumes/ravi/MyWork/sharp_algo/Solid/obj/Debug/net10.0/Solid.sourcelink.json
+/Volumes/ravi/MyWork/sharp_algo/Solid/obj/Debug/net10.0/Solid.dll
+/Volumes/ravi/MyWork/sharp_algo/Solid/obj/Debug/net10.0/refint/Solid.dll
+/Volumes/ravi/MyWork/sharp_algo/Solid/obj/Debug/net10.0/Solid.pdb
+/Volumes/ravi/MyWork/sharp_algo/Solid/obj/Debug/net10.0/Solid.genruntimeconfig.cache
+/Volumes/ravi/MyWork/sharp_algo/Solid/obj/Debug/net10.0/ref/Solid.dll

@@ -1,0 +1,15 @@
+/Volumes/ravi/MyWork/sharp_algo/Hashing/bin/Debug/net10.0/Hashing
+/Volumes/ravi/MyWork/sharp_algo/Hashing/bin/Debug/net10.0/Hashing.deps.json
+/Volumes/ravi/MyWork/sharp_algo/Hashing/bin/Debug/net10.0/Hashing.runtimeconfig.json
+/Volumes/ravi/MyWork/sharp_algo/Hashing/bin/Debug/net10.0/Hashing.dll
+/Volumes/ravi/MyWork/sharp_algo/Hashing/bin/Debug/net10.0/Hashing.pdb
+/Volumes/ravi/MyWork/sharp_algo/Hashing/obj/Debug/net10.0/Hashing.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/ravi/MyWork/sharp_algo/Hashing/obj/Debug/net10.0/Hashing.AssemblyInfoInputs.cache
+/Volumes/ravi/MyWork/sharp_algo/Hashing/obj/Debug/net10.0/Hashing.AssemblyInfo.cs
+/Volumes/ravi/MyWork/sharp_algo/Hashing/obj/Debug/net10.0/Hashing.csproj.CoreCompileInputs.cache
+/Volumes/ravi/MyWork/sharp_algo/Hashing/obj/Debug/net10.0/Hashing.sourcelink.json
+/Volumes/ravi/MyWork/sharp_algo/Hashing/obj/Debug/net10.0/Hashing.dll
+/Volumes/ravi/MyWork/sharp_algo/Hashing/obj/Debug/net10.0/refint/Hashing.dll
+/Volumes/ravi/MyWork/sharp_algo/Hashing/obj/Debug/net10.0/Hashing.pdb
+/Volumes/ravi/MyWork/sharp_algo/Hashing/obj/Debug/net10.0/Hashing.genruntimeconfig.cache
+/Volumes/ravi/MyWork/sharp_algo/Hashing/obj/Debug/net10.0/ref/Hashing.dll

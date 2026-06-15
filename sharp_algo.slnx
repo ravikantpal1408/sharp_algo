@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="AlgoPractice/AlgoPractice.csproj" />
+  <Project Path="Hashing/Hashing.csproj" />
   <Project Path="LearningSharp/LearningSharp.csproj" />
+  <Project Path="Singleton/Singleton.csproj" />
   <Project Path="Solid/Solid.csproj" />
 </Solution>
