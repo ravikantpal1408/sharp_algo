@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/ravi/MyWork/sharp_algo/Hashing/Hashing.csproj": {}
+    "/Volumes/ravikantpal/Workspace/sharp_algo/Hashing/Hashing.csproj": {}
   },
   "projects": {
-    "/Volumes/ravi/MyWork/sharp_algo/Hashing/Hashing.csproj": {
+    "/Volumes/ravikantpal/Workspace/sharp_algo/Hashing/Hashing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/ravi/MyWork/sharp_algo/Hashing/Hashing.csproj",
+        "projectUniqueName": "/Volumes/ravikantpal/Workspace/sharp_algo/Hashing/Hashing.csproj",
         "projectName": "Hashing",
-        "projectPath": "/Volumes/ravi/MyWork/sharp_algo/Hashing/Hashing.csproj",
-        "packagesPath": "/Users/ravikantpal/.nuget/packages/",
-        "outputPath": "/Volumes/ravi/MyWork/sharp_algo/Hashing/obj/",
+        "projectPath": "/Volumes/ravikantpal/Workspace/sharp_algo/Hashing/Hashing.csproj",
+        "packagesPath": "/Users/ravi/.nuget/packages/",
+        "outputPath": "/Volumes/ravikantpal/Workspace/sharp_algo/Hashing/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ravikantpal/.nuget/NuGet/NuGet.Config"
+          "/Users/ravi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

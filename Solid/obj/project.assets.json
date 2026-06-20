@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/Users/ravikantpal/.nuget/packages/": {}
+    "/Users/ravi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/ravi/MyWork/sharp_algo/Solid/Solid.csproj",
+      "projectUniqueName": "/Volumes/ravikantpal/Workspace/sharp_algo/Solid/Solid.csproj",
       "projectName": "Solid",
-      "projectPath": "/Volumes/ravi/MyWork/sharp_algo/Solid/Solid.csproj",
-      "packagesPath": "/Users/ravikantpal/.nuget/packages/",
-      "outputPath": "/Volumes/ravi/MyWork/sharp_algo/Solid/obj/",
+      "projectPath": "/Volumes/ravikantpal/Workspace/sharp_algo/Solid/Solid.csproj",
+      "packagesPath": "/Users/ravi/.nuget/packages/",
+      "outputPath": "/Volumes/ravikantpal/Workspace/sharp_algo/Solid/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ravikantpal/.nuget/NuGet/NuGet.Config"
+        "/Users/ravi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

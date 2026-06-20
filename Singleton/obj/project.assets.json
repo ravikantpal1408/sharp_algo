@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/Users/ravikantpal/.nuget/packages/": {}
+    "/Users/ravi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/ravi/MyWork/sharp_algo/Singleton/Singleton.csproj",
+      "projectUniqueName": "/Volumes/ravikantpal/Workspace/sharp_algo/Singleton/Singleton.csproj",
       "projectName": "Singleton",
-      "projectPath": "/Volumes/ravi/MyWork/sharp_algo/Singleton/Singleton.csproj",
-      "packagesPath": "/Users/ravikantpal/.nuget/packages/",
-      "outputPath": "/Volumes/ravi/MyWork/sharp_algo/Singleton/obj/",
+      "projectPath": "/Volumes/ravikantpal/Workspace/sharp_algo/Singleton/Singleton.csproj",
+      "packagesPath": "/Users/ravi/.nuget/packages/",
+      "outputPath": "/Volumes/ravikantpal/Workspace/sharp_algo/Singleton/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ravikantpal/.nuget/NuGet/NuGet.Config"
+        "/Users/ravi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
