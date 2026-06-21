@@ -1,0 +1,15 @@
+/Volumes/ravikantpal/Workspace/sharp_algo/Logistic/obj/Debug/net10.0/Logistic.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/ravikantpal/Workspace/sharp_algo/Logistic/obj/Debug/net10.0/Logistic.AssemblyInfoInputs.cache
+/Volumes/ravikantpal/Workspace/sharp_algo/Logistic/obj/Debug/net10.0/Logistic.AssemblyInfo.cs
+/Volumes/ravikantpal/Workspace/sharp_algo/Logistic/obj/Debug/net10.0/Logistic.csproj.CoreCompileInputs.cache
+/Volumes/ravikantpal/Workspace/sharp_algo/Logistic/obj/Debug/net10.0/Logistic.sourcelink.json
+/Volumes/ravikantpal/Workspace/sharp_algo/Logistic/bin/Debug/net10.0/Logistic
+/Volumes/ravikantpal/Workspace/sharp_algo/Logistic/bin/Debug/net10.0/Logistic.deps.json
+/Volumes/ravikantpal/Workspace/sharp_algo/Logistic/bin/Debug/net10.0/Logistic.runtimeconfig.json
+/Volumes/ravikantpal/Workspace/sharp_algo/Logistic/bin/Debug/net10.0/Logistic.dll
+/Volumes/ravikantpal/Workspace/sharp_algo/Logistic/bin/Debug/net10.0/Logistic.pdb
+/Volumes/ravikantpal/Workspace/sharp_algo/Logistic/obj/Debug/net10.0/Logistic.dll
+/Volumes/ravikantpal/Workspace/sharp_algo/Logistic/obj/Debug/net10.0/refint/Logistic.dll
+/Volumes/ravikantpal/Workspace/sharp_algo/Logistic/obj/Debug/net10.0/Logistic.pdb
+/Volumes/ravikantpal/Workspace/sharp_algo/Logistic/obj/Debug/net10.0/Logistic.genruntimeconfig.cache
+/Volumes/ravikantpal/Workspace/sharp_algo/Logistic/obj/Debug/net10.0/ref/Logistic.dll
