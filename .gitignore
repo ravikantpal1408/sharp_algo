@@ -16,3 +16,5 @@ obj/*
 *.cache
 .DS_Store
 bin
+*/bin/*
+*/obj/*
