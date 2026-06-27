@@ -4,6 +4,7 @@
   <Project Path="Hashing/Hashing.csproj" />
   <Project Path="LearningSharp/LearningSharp.csproj" />
   <Project Path="Logistic/Logistic.csproj" />
+  <Project Path="ProtoType/ProtoType.csproj" />
   <Project Path="Singleton/Singleton.csproj" />
   <Project Path="Solid/Solid.csproj" />
 </Solution>
