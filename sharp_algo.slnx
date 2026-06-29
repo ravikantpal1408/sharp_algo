@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="AdapterPattern/AdapterPattern.csproj" />
   <Project Path="AlgoPractice/AlgoPractice.csproj" />
+  <Project Path="FacadePattern/FacadePattern.csproj" />
   <Project Path="FactoryPattern/FactoryPattern.csproj" />
   <Project Path="Hashing/Hashing.csproj" />
   <Project Path="LearningSharp/LearningSharp.csproj" />
