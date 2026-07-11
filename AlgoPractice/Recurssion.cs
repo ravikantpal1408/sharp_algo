@@ -1,6 +1,6 @@
 namespace AlgoPractice;
 
-public class Recurssion
+public class Recursion
 {
     public static int RecFactorialPrint(int num)
     {
