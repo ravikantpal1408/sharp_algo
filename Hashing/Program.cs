@@ -21,7 +21,7 @@ public abstract class Program
     }
 
 
-    private class HashingArrOps
+    private static class HashingArrOps
     {
         public static void DoTheArrayOps()
         {
